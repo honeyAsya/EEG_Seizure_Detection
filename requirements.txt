@@ -1,0 +1,6 @@
+pyclad==0.3.0
+torch==2.8.0
+numpy
+mne
+scipy
+scikit-learn

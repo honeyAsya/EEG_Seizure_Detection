@@ -40,5 +40,14 @@ The following aspects are measured:
 
 Results are automatically saved in `.json` format for further analysis and visualization
 
+## Technologies
+The project makes use of the following Python libraries:
+
+- `numpy` – numerical computations  
+- `scipy` – Short-Time Fourier Transform (STFT) and spectral analysis  
+- `mne` – EEG data handling and preprocessing  
+- `scikit-learn` – standardization, machine learning utilities
+- `pyclad` – continual learning framework 
+
 
 
